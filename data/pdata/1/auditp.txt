@@ -1,0 +1,29 @@
+##TITLE= Audit trail, XWIN-NMR		Version 3.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= alkudr
+$$ D:/u/data/alkudr/nmr/pow06/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, WHAT)
+(   1,<2006-06-05 21:05:02.71 +400>,<alkudr>,<AVANCE400>,
+      <acquisition in progress>)
+(   2,<2006-06-06 11:18:31.23 +400>,<alkudr>,<AVANCE400>,
+      <Start of raw data processing
+       efp BC_mod = 2 LB = 20 FT_mod = 6 PKNL = 1 PHC0 = -73.13815 PHC1 = 143.9999 SI = 32K 
+       data hash MD5: 32K
+       72 DF 18 15 09 35 DB 21 B8 27 5E FD 9A AA 83 EF>)
+(   3,<2006-06-06 11:19:01.56 +400>,<alkudr>,<AVANCE400>,
+      <pk PHC0 = -118.4773 PHC1 = 0 
+       data hash MD5: 32K
+       60 F2 72 BE 6A E5 0C C2 CA 28 BC 55 E9 0A F7 E7>)
+(   4,<2006-06-19 21:02:52.23 +400>,<alkudr>,<AVANCE400>,
+      <wrpa from 1 1 "sah-5" "alkudr" "D:/u"
+       data hash MD5: 32K
+       60 F2 72 BE 6A E5 0C C2 CA 28 BC 55 E9 0A F7 E7>)
+(   5,<2006-10-23 22:10:06.68 +400>,<alkudr>,<AVANCE400>,
+      <wrpa from 1 1 "b25" "alkudr" "D:/u"
+       data hash MD5: 32K
+       60 F2 72 BE 6A E5 0C C2 CA 28 BC 55 E9 0A F7 E7>)
+##END=
+
+$$ hash MD5
+$$ 4A E4 CE 09 8E 48 EF 24 E1 F6 F0 8A B2 9E 27 94
